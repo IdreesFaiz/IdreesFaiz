@@ -10,24 +10,21 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React.js, Node.js, Express.js, TypeScript, PostgreSQL, and AWS**
+ 🔭 I’m currently working on **React.js, Node.js, Express.js, TypeScript, Sql,and MongoDB**
  
  🌱 I’m currently learning **Amazon Web Services, MERN, and Advanced Web Technologies**
 
  💬 Ask me about **Problem Solving, Development, React.js, Node.js, Express.js, MongoDB... or anything [here](https://github.com/IdreesFaiz/IdreesFaiz/issues)**
-
- ⚡ Fun fact **Money Heist Night's Watch cloaks are made from Ikea rugs**
- 
  </div>
  
 <div align="center"> 
-  <a href="mailto:connect2idrees@gmail.com">
+  <a href="mailto:idreesfaiz63@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/IdreesFaiz" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-idrees-faiz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://IdreesFaiz.github.io/portfolio/" target="_blank">
+  <a href="https://idreesfaiz.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
